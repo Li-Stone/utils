@@ -1,0 +1,111 @@
+{
+	"condition": {
+	  "tableName":"js_shengmingbiao_02",
+		"startDate": "2017-01-01",//开始日期
+		"endDate": "2017-12-31",//截止日期
+		"invers_discount": "0",//是否反算折扣
+		"invers_fee": "0 ",//是否反算费用
+		"evaDate": "2017-12-31"//评估日期
+	},
+	"dimension": {
+		"comcode3":"02640000", //三级机构代码,
+		"channeltype": "N01", //渠道代码
+		"mototypecode": "8AANEW", //业务板块
+		"usenaturecode": "8A&8B&8D", //使用性质
+		"carkindcode": "A1&A2&A3", //车辆种类
+		"kindgroup": "BZ&BZALZ3&BZANOLZ3", //投保组合
+		"othflag": "N0&N1", //新转续保标识
+		"ctpl_lastclaimcount": "", //交强险上年出险次数
+		"ctpl_lastpaysum": "1000/2000&2000/5000", //交强险上年出险金额
+		"comm_lastclaimcount": "", //商业险上年出险次数
+		"comm_lastpaysum": "", //商业险上年出险金额
+		"total_lastclaimcount": "", //合计上年出险次数
+		"total_lastpaysum": "", //合计上年出险金额
+		"purchasepricenotax": "", //新车购置价
+		"jycarclass_carbrand": "", //经验品牌分组
+		"jycarclass_carseires": "", //经验车系分组
+		"hycarclass": "", //行业车系分组
+		"carbrand": "", //品牌车系
+		"sex": "0&1&2", //性别
+		"age": "20/30&50/60", //年龄
+		"seatcount": "", // 座位数
+		"toncount": "", //吨位数
+		"useyears": "", //车龄
+		"amount": "", //三者限额
+		"flag_theft": "", //是否投保盗抢险
+		"outlandcarflag": "", //是否异地牌照
+		"flag_vl": "", //是否投保车上人员责任险
+		"flag_scratch": "", //是否投保划痕险
+		"flag_glass": "", //是否投保玻璃险
+		"flag_od":""     //是否投保车损险
+	},
+	"value": {
+		"C5": 1,
+		"C6": 0.2000,
+		"C7": 0.638,
+		"C8": 0.638,
+		"C9": 0,
+		"C10": 0,
+		"C11": 0,
+		"C16":"",
+		"C16_M":"",//分子
+    "C16_D":"",//分母
+    "C17":"",
+    "C17_M":"",
+    "C17_D":"",
+    "C18":"",
+    "C18_M":"",
+    "C18_D":"",
+    "C19":"",
+    "C19_M":"",
+    "C19_D":"",
+    "C20":"",
+    "C20_M":"",
+    "C20_D":"",
+    "C21":"",
+    "C21_M":"",
+    "C21_D":"",
+    "C22":"",
+    "C22_M":"",
+    "C22_D":"",
+    "C23":"",
+    "C23_M":"",
+    "C23_D":"",
+    "C24":"",
+    "C24_M":"",
+    "C24_D":"",
+    "C25":"",
+    "C25_M":"",
+    "C25_D":"",
+    "C26":"",
+    "C26_M":"",
+    "C26_D":"",
+    "C27":""
+    "C27_M":"",
+    "C27_D":"",
+    "comm_ratio_m": "", //商业险自主系数分子
+		"comm_ratio_d": "",//商业险自主系数分母
+		"comm_ratio": "",//商业险自主系数
+		"comm_nfpremium_ncd":"", //商业险NCD
+		"comm_benchmark_premium":"",//保费收入
+		"comm_market_fee_ratio_m":"",//商业险市场费用率分子
+		"comm_market_fee_ratio_d":"",//商业险市场费用率分母
+		"comm_market_fee_ratio":"",//商业险市场费用率
+		"ctpl_market_fee_ratio_m”:"",//交强险市场费用率分子
+		"ctpl_market_fee_ratio_d”:"",//交强险市场费用率分母
+		"ctpl_market_fee_ratio":"",//交强险市场费用率
+		"market_fee_ratio_m"："",//市场费用率分子
+		"market_fee_ratio_d":"",//市场费用率分母
+		"market_fee_ratio":"",市场费用率
+		"unmarket_fee_ratio_m":"",//非市场费用率分子
+		"unmarket_fee_ratio_d":"",//非市场费用率分母
+		"unmarket_fee_ratio":"",//非市场费用率
+		"payment_ratio_m":"",//终极赔付率分子
+		"payment_ratio_d":"",//终极赔付率分母
+		"payment_ratio":"",//终极赔付率
+		"payment_expiry_ratio_m":"",//满期赔付率分子
+		"payment_expiry_ratio_d":"",//满期赔付率分母
+		"payment_expiry_ratio":"",//满期赔付率
+		"selected_payment_ratio":"",//选定赔付率
+	}
+}
