@@ -38,3 +38,34 @@ def read_excel_to_list(file_path, sheet, start_row, end_row, name_or_index='inde
         return items
     except Exception as e:
         print(e)
+
+
+def write_list_to_excel(file_path, items, title):
+    """
+    将数组中内容写入到指定文件的工作表中
+    :param file_path: excel文件路径
+    :param items: 要写入的内容数组
+    :param title sheet名字
+    :return:  是否写入成功  TRUE|FALSE
+    """
+    try:
+        wb = Workbook()
+        sheet = wb.active
+        sheet.title = title
+
+        index = 0
+        for item in items:
+            try:
+                sheet.append(item)
+            except Exception as e:
+                print(e)
+                print(index, items[index])
+            index += 1
+        wb.save(file_path)
+    except Exception as e:
+        print(e)
+        print('写入到excel失败')
+        return False
+    else:
+        print('写入到excel成功')
+        return True

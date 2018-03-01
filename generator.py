@@ -52,7 +52,27 @@ def build_script():
     write_docs_to_file(script_docs, 'files\\script.txt')
 
 
-# build_script()
+def build_response(file):
+    docs = []
+    # response.xlsx 第一个sheet的第一行存返回的字段名
+    titles = read_excel_to_list('files\\response.xlsx', 1, 1, 1)[0]
+    docs.append(titles)
+    with open(file, 'r') as f:
+        resp = json.load(f)
+    for doc in resp:
+        condition_dict = doc["condition"]
+        dimension_dict = doc["dimension"]
+        value_dict = doc["value"]
+        resp_dict = dict(condition_dict, **dimension_dict, **value_dict)
+        item = []
+        for title in titles:
+            if resp_dict.__contains__(title):
+                item.append(resp_dict[title])
+            else:
+                item.append("")
+        docs.append(item)
+    write_list_to_excel("files\\response_xlsx.xlsx", docs, "返回excel")
 
-resp_json = json.load('files\\返回报文.json')
-print(resp_json)
+
+# build_script()
+build_response("files\\返回报文.json")
