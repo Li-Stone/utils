@@ -83,8 +83,10 @@ def build_script(req_excel, req_txt, resp_json):
         r = requests.post('http://10.8.198.107:8080/iltplatformMpp/lifetablecompilefacade', json=param)
         response_xml.append("," + r.text)
         result = json.loads(r.text)
-
-        results.append(result["data"]["resultData"][0])
+        print(result)
+        data = dict(result["data"])
+        if data.__contains__("resultData"):
+            results.append(data["resultData"][0])
         script_docs.append("," + script + ",")
     # 将请求和响应报文 调整为标准对象数组格式：  删除第一个报文前的逗号
     response_xml.append("]")
@@ -120,12 +122,11 @@ def build_response(results, resp_title, resp_excel):
     write_list_to_excel(resp_excel, docs, "测试返回数据")
 
 
-request_excel = "files\\请求数据.xlsx"  # 请求数据路径
+request_excel = "files\\post.xlsx"  # 请求数据路径
 request_json = "files\\请求报文.json"  # 请求报文路径
 response_title = "files\\返回字段.xlsx"  # 返回字段excel路径
 response_excel = "files\\返回数据.xlsx"  # 返回数据excel路径
 response_json = "files\\返回报文.json"  # 返回报文json路径
-
 
 result_json = build_script(request_excel, request_json, response_json)  # 获取响应报文中的目标数据
 build_response(result_json, response_title, response_excel)  # 解析响应报文中的目标数据并将解析后的数据写入到excel中
