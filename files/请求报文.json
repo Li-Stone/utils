@@ -1,0 +1,1660 @@
+[
+{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"否",
+			"invers_fee":"否",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8AAOLD",
+			"kindgroup":"BZ&COMMA&COMMNOA",
+			"othflag":"N1&N2&N3&N4",
+			"purchasepricenotax":"0/3"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":1,
+			"C8":1,
+			"C9":0,
+			"C10":0,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"否",
+			"invers_fee":"否",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8AAOLD",
+			"kindgroup":"BZALZ3&BZANOLZ3&BZNOA&BZNOA&OTHER",
+			"othflag":"N1&N2&N3&N4",
+			"purchasepricenotax":"0/3"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":1,
+			"C8":1,
+			"C9":0,
+			"C10":0,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"否",
+			"invers_fee":"否",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8AAOLD",
+			"kindgroup":"BZ&COMMA&COMMNOA",
+			"othflag":"N1&N2&N3&N4",
+			"purchasepricenotax":"300000/3"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":1,
+			"C8":1,
+			"C9":0,
+			"C10":0,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"否",
+			"invers_fee":"否",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8AAOLD",
+			"kindgroup":"BZALZ3&BZANOLZ3&BZNOA&BZNOA&OTHER",
+			"othflag":"N1&N2&N3&N4",
+			"purchasepricenotax":"300000/3"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":1,
+			"C8":1,
+			"C9":0,
+			"C10":0,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"否",
+			"invers_fee":"是",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8AAOLD",
+			"kindgroup":"BZ&COMMA&COMMNOA",
+			"othflag":"T&N",
+			"total_lastclaimcount":"0_3+&0_2&0_1",
+			"purchasepricenotax":"0/3"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":0.6375,
+			"C8":0.6375,
+			"C9":0.55,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"否",
+			"invers_fee":"是",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8AAOLD",
+			"kindgroup":"BZALZ3&BZANOLZ3&BZNOA&BZNOA&OTHER",
+			"othflag":"T&N",
+			"total_lastclaimcount":"0_3+&0_2&0_1",
+			"purchasepricenotax":"0/3"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":0.6375,
+			"C8":0.6375,
+			"C9":0.55,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"否",
+			"invers_fee":"是",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8AAOLD",
+			"kindgroup":"BZ&COMMA&COMMNOA",
+			"othflag":"T&N",
+			"total_lastclaimcount":"1",
+			"purchasepricenotax":"0/3"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":0.6375,
+			"C8":0.6375,
+			"C9":0.55,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"否",
+			"invers_fee":"是",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8AAOLD",
+			"kindgroup":"BZALZ3&BZANOLZ3&BZNOA&BZNOA&OTHER",
+			"othflag":"T&N",
+			"total_lastclaimcount":"1",
+			"purchasepricenotax":"0/3"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":0.6375,
+			"C8":0.6375,
+			"C9":0.55,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"否",
+			"invers_fee":"是",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8AAOLD",
+			"kindgroup":"BZ&COMMA&COMMNOA",
+			"othflag":"T&N",
+			"total_lastclaimcount":"2/1",
+			"purchasepricenotax":"0/3"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":0.6375,
+			"C8":0.6375,
+			"C9":0.55,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"否",
+			"invers_fee":"是",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8AAOLD",
+			"kindgroup":"BZALZ3&BZANOLZ3&BZNOA&BZNOA&OTHER",
+			"othflag":"T&N",
+			"total_lastclaimcount":"2/1",
+			"purchasepricenotax":"0/3"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":0.6375,
+			"C8":0.6375,
+			"C9":0.55,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"否",
+			"invers_fee":"是",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8AAOLD",
+			"kindgroup":"BZ&COMMA&COMMNOA",
+			"othflag":"T&N",
+			"total_lastclaimcount":"0_3+&0_2&0_1",
+			"purchasepricenotax":"300000/3"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":0.6375,
+			"C8":0.6375,
+			"C9":0.55,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"否",
+			"invers_fee":"是",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8AAOLD",
+			"kindgroup":"BZALZ3&BZANOLZ3&BZNOA&BZNOA&OTHER",
+			"othflag":"T&N",
+			"total_lastclaimcount":"0_3+&0_2&0_1",
+			"purchasepricenotax":"300000/3"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":0.6375,
+			"C8":0.6375,
+			"C9":0.55,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"否",
+			"invers_fee":"是",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8AAOLD",
+			"kindgroup":"BZ&COMMA&COMMNOA",
+			"othflag":"T&N",
+			"total_lastclaimcount":"1",
+			"purchasepricenotax":"300000/3"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":0.6375,
+			"C8":0.6375,
+			"C9":0.55,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"否",
+			"invers_fee":"是",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8AAOLD",
+			"kindgroup":"BZALZ3&BZANOLZ3&BZNOA&BZNOA&OTHER",
+			"othflag":"T&N",
+			"total_lastclaimcount":"1",
+			"purchasepricenotax":"300000/3"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":0.6375,
+			"C8":0.6375,
+			"C9":0.55,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"否",
+			"invers_fee":"是",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8AAOLD",
+			"kindgroup":"BZ&COMMA&COMMNOA",
+			"othflag":"T&N",
+			"total_lastclaimcount":"2/1",
+			"purchasepricenotax":"300000/3"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":0.6375,
+			"C8":0.6375,
+			"C9":0.55,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"否",
+			"invers_fee":"是",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8AAOLD",
+			"kindgroup":"BZALZ3&BZANOLZ3&BZNOA&BZNOA&OTHER",
+			"othflag":"T&N",
+			"total_lastclaimcount":"2/1",
+			"purchasepricenotax":"300000/3"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":0.6375,
+			"C8":0.6375,
+			"C9":0.55,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"是",
+			"invers_fee":"是",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8AAOLD",
+			"kindgroup":"BZ&COMMA&COMMNOA",
+			"othflag":"R1&R2",
+			"total_lastclaimcount":"0_3+&0_2&0_1",
+			"purchasepricenotax":"0/3"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":0.85,
+			"C8":0.6375,
+			"C9":0.5,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"是",
+			"invers_fee":"是",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8AAOLD",
+			"kindgroup":"BZALZ3&BZANOLZ3&BZNOA&BZNOA&OTHER",
+			"othflag":"R1&R2",
+			"total_lastclaimcount":"0_3+&0_2&0_1",
+			"purchasepricenotax":"0/3"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":0.85,
+			"C8":0.6375,
+			"C9":0.5,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"是",
+			"invers_fee":"是",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8AAOLD",
+			"kindgroup":"BZ&COMMA&COMMNOA",
+			"othflag":"R1&R2",
+			"total_lastclaimcount":"1",
+			"purchasepricenotax":"0/3"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":0.85,
+			"C8":0.6375,
+			"C9":0.5,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"是",
+			"invers_fee":"是",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8AAOLD",
+			"kindgroup":"BZALZ3&BZANOLZ3&BZNOA&BZNOA&OTHER",
+			"othflag":"R1&R2",
+			"total_lastclaimcount":"1",
+			"purchasepricenotax":"0/3"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":0.85,
+			"C8":0.6375,
+			"C9":0.5,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"是",
+			"invers_fee":"是",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8AAOLD",
+			"kindgroup":"BZ&COMMA&COMMNOA",
+			"othflag":"R1&R2",
+			"total_lastclaimcount":"2/1",
+			"purchasepricenotax":"0/3"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":0.85,
+			"C8":0.6375,
+			"C9":0.5,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"是",
+			"invers_fee":"是",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8AAOLD",
+			"kindgroup":"BZALZ3&BZANOLZ3&BZNOA&BZNOA&OTHER",
+			"othflag":"R1&R2",
+			"total_lastclaimcount":"2/1",
+			"purchasepricenotax":"0/3"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":0.85,
+			"C8":0.6375,
+			"C9":0.5,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"是",
+			"invers_fee":"是",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8AAOLD",
+			"kindgroup":"BZ&COMMA&COMMNOA",
+			"othflag":"R1&R2",
+			"total_lastclaimcount":"0_3+&0_2&0_1",
+			"purchasepricenotax":"300000/3"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":0.85,
+			"C8":0.6375,
+			"C9":0.5,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"是",
+			"invers_fee":"是",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8AAOLD",
+			"kindgroup":"BZALZ3&BZANOLZ3&BZNOA&BZNOA&OTHER",
+			"othflag":"R1&R2",
+			"total_lastclaimcount":"0_3+&0_2&0_1",
+			"purchasepricenotax":"300000/3"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":0.85,
+			"C8":0.6375,
+			"C9":0.5,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"是",
+			"invers_fee":"是",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8AAOLD",
+			"kindgroup":"BZ&COMMA&COMMNOA",
+			"othflag":"R1&R2",
+			"total_lastclaimcount":"1",
+			"purchasepricenotax":"300000/3"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":0.85,
+			"C8":0.6375,
+			"C9":0.5,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"是",
+			"invers_fee":"是",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8AAOLD",
+			"kindgroup":"BZALZ3&BZANOLZ3&BZNOA&BZNOA&OTHER",
+			"othflag":"R1&R2",
+			"total_lastclaimcount":"1",
+			"purchasepricenotax":"300000/3"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":0.85,
+			"C8":0.6375,
+			"C9":0.5,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"是",
+			"invers_fee":"是",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8AAOLD",
+			"kindgroup":"BZ&COMMA&COMMNOA",
+			"othflag":"R1&R2",
+			"total_lastclaimcount":"2/1",
+			"purchasepricenotax":"300000/3"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":0.85,
+			"C8":0.6375,
+			"C9":0.5,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"是",
+			"invers_fee":"是",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8AAOLD",
+			"kindgroup":"BZALZ3&BZANOLZ3&BZNOA&BZNOA&OTHER",
+			"othflag":"R1&R2",
+			"total_lastclaimcount":"2/1",
+			"purchasepricenotax":"300000/3"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":0.85,
+			"C8":0.6375,
+			"C9":0.5,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"否",
+			"invers_fee":"是",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8AANEW",
+			"kindgroup":"BZ&COMMA&COMMNOA",
+			"purchasepricenotax":"0/3"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":0.9,
+			"C8":0.9,
+			"C9":0.5,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"否",
+			"invers_fee":"是",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8AANEW",
+			"kindgroup":"BZALZ3&BZANOLZ3&BZNOA&BZNOA&OTHER",
+			"purchasepricenotax":"0/3"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":0.9,
+			"C8":0.9,
+			"C9":0.5,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"否",
+			"invers_fee":"是",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8AANEW",
+			"kindgroup":"BZ&COMMA&COMMNOA",
+			"purchasepricenotax":"300000/1"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":0.9,
+			"C8":0.9,
+			"C9":0.5,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"否",
+			"invers_fee":"是",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8AANEW",
+			"kindgroup":"BZALZ3&BZANOLZ3&BZNOA&BZNOA&OTHER",
+			"purchasepricenotax":"300000/1"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":0.9,
+			"C8":0.9,
+			"C9":0.5,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"否",
+			"invers_fee":"是",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8B",
+			"kindgroup":"BZ&COMMA&COMMNOA"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":0.6375,
+			"C8":0.6375,
+			"C9":0.5,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"否",
+			"invers_fee":"是",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8B",
+			"kindgroup":"BZALZ3&BZANOLZ3&BZNOA&OTHER"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":0.6375,
+			"C8":0.6375,
+			"C9":0.5,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"否",
+			"invers_fee":"是",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8E",
+			"kindgroup":"BZ&COMMA&COMMNOA"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":0.6375,
+			"C8":0.6375,
+			"C9":0.5,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"否",
+			"invers_fee":"是",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8E",
+			"kindgroup":"BZALZ3&BZANOLZ3&BZNOA&OTHER"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":0.6375,
+			"C8":0.6375,
+			"C9":0.5,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"是",
+			"invers_fee":"否",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"9C"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":1,
+			"C8":0.6375,
+			"C9":0.2,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"是",
+			"invers_fee":"否",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"9B"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":1,
+			"C8":0.6375,
+			"C9":0.2,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"是",
+			"invers_fee":"否",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"9FG"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":1,
+			"C8":0.6375,
+			"C9":0.2,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"是",
+			"invers_fee":"否",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"9D",
+			"toncount":"0/3"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":1,
+			"C8":0.6375,
+			"C9":0.2,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"是",
+			"invers_fee":"否",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"9D",
+			"toncount":"2/6"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":1,
+			"C8":0.6375,
+			"C9":0.2,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"是",
+			"invers_fee":"否",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"9D",
+			"toncount":"5/11"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":1,
+			"C8":0.6375,
+			"C9":0.2,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"是",
+			"invers_fee":"否",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"9D",
+			"toncount":"10/1"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":1,
+			"C8":0.6375,
+			"C9":0.2,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"是",
+			"invers_fee":"否",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8HG",
+			"toncount":"0/3"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":1,
+			"C8":0.6375,
+			"C9":0.2,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"是",
+			"invers_fee":"否",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8HG",
+			"toncount":"2/6"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":1,
+			"C8":0.6375,
+			"C9":0.2,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"是",
+			"invers_fee":"否",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8HG",
+			"toncount":"5/11"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":1,
+			"C8":0.6375,
+			"C9":0.2,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"是",
+			"invers_fee":"否",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"8HG",
+			"toncount":"10/1"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":1,
+			"C8":0.6375,
+			"C9":0.2,
+			"C10":0.2,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"否",
+			"invers_fee":"否",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"T1"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":1,
+			"C8":1,
+			"C9":0.1,
+			"C10":0.1,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"否",
+			"invers_fee":"否",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"T2"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":1,
+			"C8":1,
+			"C9":0.1,
+			"C10":0.1,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"否",
+			"invers_fee":"否",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"T3"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":1,
+			"C8":1,
+			"C9":0.1,
+			"C10":0.1,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+,{
+	"auth": {},
+	 "channel": {},
+	 "log": {},
+	 "method": "queryLifeTableData",
+	 "param":{
+		"condition":{
+			"tableName":"js_shengmingbiao_02",
+			"startDate":"2017-01-01",
+			"endDate":"2017-12-31",
+			"invers_discount":"否",
+			"invers_fee":"否",
+			"evaDate":"2017-12-31"
+		},
+		"dimension":{
+			"comcode3":"264",
+			"motortype":"M"
+		},
+		"value":{
+			"C5":1,
+			"C6":0.18,
+			"C7":1,
+			"C8":1,
+			"C9":0.1,
+			"C10":0.1,
+			"C11":0.04
+		}
+	},
+	"version":""
+},
+]
