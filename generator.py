@@ -24,7 +24,10 @@ def build_json(title, data, name):
                 item = '\n\t\t\t"' + title[i] + '":' + data[i] + ','
             else:
                 # 从excel中读取的日期格式数据 默认在后面带有时分秒 去掉  否则请求不成功
-                item = '\n\t\t\t"' + title[i] + '":"' + str(data[i]).rstrip(" 00:00:00") + '",'
+                if title[i] == 'startDate' or title == 'endDate' or title == 'evaDate':
+                    item = '\n\t\t\t"' + title[i] + '":"' + str(data[i]).strip(" 00:00:00 ") + '",'
+                else:
+                    item = '\n\t\t\t"' + title[i] + '":"' + str(data[i]) + '",'
             json_str += item
     str_len = len(json_str)
     json_str = json_str[:str_len - 1]
@@ -122,7 +125,7 @@ def build_response(results, resp_title, resp_excel):
     write_list_to_excel(resp_excel, docs, "测试返回数据")
 
 
-request_excel = "files\\post.xlsx"  # 请求数据路径
+request_excel = "files\\请求数据.xlsx"  # 请求数据路径
 request_json = "files\\请求报文.json"  # 请求报文路径
 response_title = "files\\返回字段.xlsx"  # 返回字段excel路径
 response_excel = "files\\返回数据.xlsx"  # 返回数据excel路径
